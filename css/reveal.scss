@@ -622,6 +622,17 @@ $controlsArrowAngleActive: 36deg;
 	perspective-origin: 50% 40%;
 }
 
+.reveal .slides,
+.reveal .slides h1,
+.reveal .slides h2,
+.reveal .slides h3,
+.reveal .slides h4,
+.reveal .slides h5,
+.reveal .slides h6 {
+    font-family: 'Noto Sans Japanese';
+	text-transform: none;
+}
+
 .reveal .slides>section {
 	-ms-perspective: 600px;
 }
@@ -1387,7 +1398,6 @@ $controlsArrowAngleActive: 36deg;
 .reveal.rtl .slides h6 {
 	direction: rtl;
 	font-family: sans-serif;
-	text-transform: none;
 }
 
 .reveal.rtl pre,
