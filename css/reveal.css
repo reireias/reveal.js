@@ -453,6 +453,9 @@ body {
   perspective: 600px;
   perspective-origin: 50% 40%; }
 
+.reveal .slides {
+  font-size: 36px; }
+
 .reveal .slides,
 .reveal .slides h1,
 .reveal .slides h2,
