@@ -9,5 +9,12 @@
 - スライド番号を表示
 - スライドめくりのアニメーションを`convex`に変更
 - `h1`〜`h6`を`text-transform: none;`に設定
+- `live-server`による変更検知と自動更新を設定
 
-## 
+## 使用方法
+```sh
+yarn install
+yarn start
+```
+
+起動した状態で`body.md`を書き換えると、自動で反映されます。
