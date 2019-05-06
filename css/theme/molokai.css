@@ -163,12 +163,17 @@ body {
 
 .reveal pre code {
   display: block;
+  color: #fff;
   border-style: none;
   border-radius: 0px;
   padding: 5px;
   overflow: auto;
   max-height: 400px;
   word-wrap: normal; }
+
+.reveal pre code .hljs-ln-numbers {
+  color: #fd971f;
+}
 
 .reveal table {
   margin: auto;
