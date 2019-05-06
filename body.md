@@ -4,7 +4,17 @@ hoge
 
 ---
 
+## h2
 2nd page
+
+**strong**
+
+- list1
+- list2
+
+[link](http://example.com)
+
+this is `code`.
 
 ---
 
